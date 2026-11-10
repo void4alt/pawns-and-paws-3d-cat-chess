@@ -6,12 +6,12 @@
 
 **A high-performance, fully playable 3D chess game where grandmaster strategy meets charming feline antics!**
 
-[![Play Live Demo](https://img.shields.io/badge/🎮%20Play%20Online-GitHub%20Pages-81b64c?style=for-the-badge&logo=github)](https://void4ux.github.io/pawns-and-paws-3d-cat-chess/)
+[![Play Live Demo](https://img.shields.io/badge/🎮%20Play%20Online-GitHub%20Pages-81b64c?style=for-the-badge&logo=github)](https://void4alt.github.io/pawns-and-paws-3d-cat-chess/)
 [![P2P Multiplayer](https://img.shields.io/badge/🌐%20Multiplayer-WebRTC%20P2P%20(PeerJS)-38bdf8?style=for-the-badge)](https://peerjs.com/)
 [![Performance](https://img.shields.io/badge/⚡%20Performance-60%20FPS%20Zero--Lag-f59e0b?style=for-the-badge)](https://threejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
-[**✨ Play Live Game**](https://void4ux.github.io/pawns-and-paws-3d-cat-chess/) • [**🌐 How to Play Multiplayer**](#-online-multiplayer-with-friends) • [**🐱 Cat Breeds Guide**](#-the-royal-feline-roster) • [**⚡ Zero-Lag Optimizations**](#-performance--zero-lag-engine)
+[**✨ Play Live Game**](https://void4alt.github.io/pawns-and-paws-3d-cat-chess/) • [**🌐 How to Play Multiplayer**](#-online-multiplayer-with-friends) • [**🐱 Cat Breeds Guide**](#-the-royal-feline-roster) • [**⚡ Zero-Lag Optimizations**](#-performance--zero-lag-engine)
 
 </div>
 
@@ -125,7 +125,7 @@ No npm build step is required! You can run the game with any static HTTP server:
 
 ```bash
 # Clone the repository
-git clone https://github.com/void4ux/pawns-and-paws-3d-cat-chess.git
+git clone https://github.com/void4alt/pawns-and-paws-3d-cat-chess.git
 cd pawns-and-paws-3d-cat-chess
 
 # Start a local static server (Python 3)
@@ -143,7 +143,7 @@ open http://localhost:8080
 2. In the left sidebar, click **Pages**.
 3. Under **Build and deployment** > **Branch**, select `main` and folder `/ (root)`.
 4. Click **Save**. Your game will be live at:
-   `https://<your-username>.github.io/<repo-name>/`
+   `https://void4alt.github.io/pawns-and-paws-3d-cat-chess/`
 
 ---
 
@@ -152,5 +152,5 @@ open http://localhost:8080
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
-  <sub>Crafted with 🐾 by <a href="https://github.com/void4ux">void4ux</a></sub>
+  <sub>Crafted with 🐾 by <a href="https://github.com/void4alt">void4alt</a></sub>
 </div>
